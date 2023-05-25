@@ -69,9 +69,9 @@ og_image: https://jmrplens.github.io/assets/img/mehome_landscape.jpeg # The site
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: jmrplens # your GitHub user name
-gitlab_username: # your GitLab user name
-gitlab_selfhosted: git.jmrp.io/jmrplens
+github_username: jann7790 # your GitHub user name
+gitlab_username: jann7790 # your GitLab user name
+gitlab_selfhosted: 
 pixelfed: pixel.jmrp.io/jmrplens
 twitter_username: # your Twitter handle
 mastodon_username: mstdn.jmrp.io/@jmrplens # your mastodon instance+username in the format instance.tld/@username
