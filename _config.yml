@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: José M. Requena Plens # the website title (if blank, full name will be used instead)
-first_name: José
-middle_name: M.
-last_name: Requena Plens
-email: jmrplens@protonmail.com
+title: test test# the website title (if blank, full name will be used instead)
+first_name: test fiirst
+middle_name: test middle 
+last_name: Requena Plens last
+email: test@protonmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I'm a researcher and PhD Student at i3M, working on medical ultrasound imaging. My research interests are acoustic metamaterials and ultrasound applications.
 footer_text: >
@@ -16,7 +16,7 @@ keywords: José Manuel Requena Plens, jmrplens, José M. Requena Plens, Requena-
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: avatar.png # the emoji used as the favicon
 
-url: https://jmrplens.github.io # the base hostname & protocol for your site
+url: https://jann7790.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
