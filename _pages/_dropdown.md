@@ -9,5 +9,5 @@ children:
       permalink: /github/
     - title: divider
     - title: GitLab
-      permalink: https://git.jmrp.io/jmrplens
+      permalink: /gitlab/
 ---
