@@ -90,9 +90,9 @@
       icon: fas fa-window-maximize
       items:
         - name: IDA Pro
-          level: advaned level.
+          level: advanced level.
         - name: x64dbg
-          level: advaned level.
+          level: advanced level.
         - name: gdb
           level: advanced level.
         - name: cheat engine
