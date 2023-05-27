@@ -24,5 +24,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <h2>Hi!</h2> 
-<br>
 <h2>Hi!</h2> 
+<br>
+
