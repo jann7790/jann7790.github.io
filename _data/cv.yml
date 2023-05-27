@@ -7,7 +7,7 @@
     - name: Languages
       value: Chinese
     - name: expertise
-      value: Programming, Reverse Engineering, Blockchain
+      value: Programming, Reverse Engineering
 
 - title: Education
   type: time_table
