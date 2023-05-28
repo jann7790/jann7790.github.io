@@ -11,7 +11,7 @@ description: I'm a Student.
 
 profile:
   align: right
-  image: 144p.jpg
+  image: 7.jpg
   image_cicular: true # crops the image to make it circular
   address: >
     <p>jiaming chang</p> 
